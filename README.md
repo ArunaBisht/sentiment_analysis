@@ -1,8 +1,8 @@
 # Sentiment Analyzer
 
-This starup is providing more integrated platform of public sentiment website like Reddit, stock site like Alpaca and trading platform like Robinhood, so that an investor can get better unified insight into stocks before investing. The recent incident of Wallstreet/ bet has onces again proved that public sentiments plays a siginificant role in driving market. Companies like AMC and Gamestop who were almost on the verge of bankrupcy were turned into multi-millionaire overnight just because few investors crazily pumped money into these stocks. 
+This startup is providing the more integrated platform combining public sentiment websites like Reddit, stock sites like Alpaca and trading platforms like Robinhood, so that an investor can get better unified insight into stocks before investing. The recent incident of Wall Street/ bet has onces again proved that public sentiments play a significant role in driving the market. Companies like AMC and Gamestop who were almost on the verge of bankruptcy were turned into multi-millionaire overnight just because few investors crazily pumped money into these stocks. 
 
-Hence, our goal is to leverage public sentiments and feed that data into ML model to quanitfy and predict overall market sentiments in order to better decisions and then connect that to trading platform to automate trades. We provide user better insight to the stocks and deeper analysis of public sentiments.
+Hence, our goal is to leverage public sentiments and feed that data into the ML model to quantify and predict overall market sentiments in order to make better decisions and then connect that to trading platforms to automate trades. We provide users better insight to the stocks and deeper analysis of public sentiments.
 
 ![](snapshots/intro.PNG)
 

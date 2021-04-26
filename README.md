@@ -1,3 +1,55 @@
-# Sentiment_analysis
+# Sentiment Analyzer
+
+This starup is providing more integrated platform of public sentiment website like Reddit, stock site like Alpaca and trading platform like Robinhood, so that an investor can get better unified insight into stocks before investing. The recent incident of Wallstreet/ bet has onces again proved that public sentiments plays a siginificant role in driving market. Companies like AMC and Gamestop who were almost on the verge of bankrupcy were turned into multi-millionaire overnight just because few investors crazily pumped money into these stocks. 
+
+Hence, our goal is to leverage public sentiments and feed that data into ML model to quanitfy and predict overall market sentiments in order to better decisions and then connect that to trading platform to automate trades. We provide user better insight to the stocks and deeper analysis of public sentiments.
 
 ![](snapshots/intro.PNG)
+
+#Approach
+The project takes raw comments from the site Reddit, stock prices from Alpaca and second part is to connect it to trading platform like Robinhood to auto trade. 
+
+## Technologies
+
+This project leverages python 3.7 with the following packages:
+
+* [Pandas](https://pandas.pydata.org/) - For data cleaning, preparation and manipulation
+
+* [Jupyter Notebook](https://jupyter.org/) - An open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
+
+* [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications
+
+* [Pyviz](https://pyviz.org/) - Python visualization package that provides a single platform for accessing multiple visualization libraries. Two of these libraries are Plotly Express and hvPlot, which were used in this project
+
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/) - A Python library which allows you to build a web application
+
+
+---
+
+## Installation Guide
+
+Download Anaconda for your operating system and the latest Python version, run the installer, and follow the steps.
+
+Before running the application first install the following dependencies.
+
+```python
+  pip install fire
+  pip install questionary
+  pip install pytest
+  pip install pandas
+  pip install numpy
+  pip install flask
+  pip install hvplot
+```
+
+To install PyViz and its dependencies in your Conda dev environment, complete the following steps:
+
+1. From your terminal, log in to your Conda dev environment.
+
+2. Install the PyViz packages by using the conda install command as follows:
+    
+	conda install -c plotly plotly=4.13.
+    
+    conda install -c pyviz hvplot
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,1 +1,3 @@
-# sentiment_analysis
+# Sentiment_analysis
+
+![](snapshots/intro.PNG)

@@ -53,9 +53,10 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 
 ## Usage
 
-The reddit comments are pulled through API. The stock prices are pulled from Alpaca. We used multiple machine learning model on this data. The two main ML models we used was - (1) Valdmir - this is the model which is used for text sentiment analysis that is sensitive to both polarity (positive/ negative) and intensity strength of emotion. It is in the NLTP package and can directly be applied to the unabelled data. This library relies on the dictionary that maps lexical features to emotion intensities konwn as sentiment score. (2) Text blot - In this library sentiments are defined based on the frequency of each word in an input sentence that allows gettins a more precise output as a result. The result we got was in the form polarity on the scale of -1 to 1 and subjectivity on the scale of 0 to 1.
+The reddit comments are pulled through API. The stock prices are pulled from Alpaca. We used multiple machine learning model on this data. The two main ML models we used was - (1) Valdmir - this is the model which is used for text sentiment analysis that is sensitive to both polarity (positive/ negative) and intensity strength of emotion. It is in the NLTP package and can directly be applied to the unlabelled data. This library relies on the dictionary that maps lexical features to emotion intensities known as sentiment score. (2) Text blot - In this library sentiments are defined based on the frequency of each word in an input sentence that allows getting a more precise output as a result. The result we got was in the form polarity on the scale of -1 to 1 and subjectivity on the scale of 0 to 1.
 
-Following snpashot shows the final dataframe after pulling data from both data sources and results got from two different ML model.
+Following snapshot shows the final dataframe after pulling data from both data sources and results got from two different ML model.
+
 ![](snapshots/dataframe_headline.PNG)
 ![](snapshots/dataframe_content.PNG)
 
@@ -92,46 +93,45 @@ This is the trend of positive, negative and neutral sentiments trend across stoc
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-![](snapshots/capital_goods.PNG)
-
 Due to the imbalanced dataset, we found more siginificant % percentage of neutral sentiments. The capital good sector % was 23%.
 
---------------------------------------------------------------------------------------------------------------------------------------------
+![](snapshots/capital_goods.PNG)
 
-![](snapshots/customer_services.PNG)
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 The consumer service sector postive sentiment % is 23.2%
 
---------------------------------------------------------------------------------------------------------------------------------------------
+![](snapshots/customer_services.PNG)
 
-![](snapshots/energy.PNG)
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 The energy sector postive sentiment % is 14.1%
 
+![](snapshots/energy.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
-
-![](snapshots/finance.PNG)
 
 The finance sector postive sentiment % is 22.6%
 
+![](snapshots/finance.PNG)
+
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+The finance sector postive sentiment % is 10.1%
 
 ![](snapshots/health_care.PNG)
 
-The finance sector postive sentiment % is 10.1%
-
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+The finance sector postive sentiment % is 10.1%
 
 ![](snapshots/public_utilities.PNG)
 
-The finance sector postive sentiment % is 10.1%
-
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-![](snapshots/public_utilities.PNG)
-
 The finance sector postive sentiment % is 10.1%
+
+![](snapshots/public_utilities.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 

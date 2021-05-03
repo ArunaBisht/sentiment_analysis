@@ -77,7 +77,7 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 ![](snapshots/sentiment_trend.PNG)
 ![](snapshots/which_sector.PNG)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-
+.
 ## Contributors
 
 Brought to you by 

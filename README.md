@@ -61,18 +61,26 @@ Following snpashot shows the final dataframe after pulling data from both data s
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-![](snapshots/correlation.PNG)
 The correlation metrics of ML results were interesting. Following were the findings (1) The result accuracy increased significantly with the incerease in the score of comments. Infact the weigtage of positive comments increased with more scores. (2) If there was a sudden percentage change in the stock 'close' price then weigtage of negative comments was more (3) The ML results from two different libraries have a strong  postive correlation.
 
+![](snapshots/correlation.PNG)
+
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+Following is the snapshot of the graph plotted between the results of two ML model.
 
 ![](snapshots/cross_results.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+Following graph shows the variation in the polarity.
+
 ![](snapshots/snapshots.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+This is the heat map which tell better the score higher the postive sentiments % we got.
+
 ![](snapshots/polarity_variation.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -81,6 +89,7 @@ The correlation metrics of ML results were interesting. Following were the findi
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+This is the trend of positive, negative and neutral sentiments trend across stocks.
 ![](snapshots/sentiment_trend.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------

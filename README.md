@@ -157,10 +157,4 @@ This shows the list of top trend in the market as per the recent data.
 
 ![](snapshots/range_of_Sentiments.PNG)
 
---------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-## Contributors
-
-Brought to you by Aruna, Billy, Aye

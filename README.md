@@ -159,4 +159,4 @@ This is the snapshot of the interactive dashboard built for the users to kn0w th
 
 ## Contributors
 
-Brought to you by 
+Brought to you by Aruna, Billy, Aye

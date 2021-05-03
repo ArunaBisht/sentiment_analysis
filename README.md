@@ -147,10 +147,13 @@ This shows the list of top trend in the market as per the recent data.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-This is the snapshot of another user interface to kn0w the sentiments for the particular stock before investing. 
+1. This is the snapshot of another user interface to knOw the sentiments for the particular stock before investing. 
+
 ![](snapshots/for_which_stock.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+2. This snapshot shows the list of stocks which lie in the particular the range of sentiments.
 
 ![](snapshots/range_of_Sentiments.PNG)
 

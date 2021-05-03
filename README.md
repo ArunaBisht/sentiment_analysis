@@ -56,6 +56,26 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 ## Usage
 
 
+
+![](snapshots/capital_goods.PNG)
+![](snapshots/correlation.PNG)
+![](snapshots/cross_results.PNG)
+![](snapshots/customer_services.PNG)
+![](snapshots/energy.PNG)
+![](snapshots/finance.PNG)
+![](snapshots/for_which_stock.PNG)
+![](snapshots/health_care.PNG)
+![](snapshots/intro.PNG)
+![](snapshots/polarity_variation.PNG)
+![](snapshots/public_sentiments.PNG)
+![](snapshots/public_utilities.PNG)
+![](snapshots/range_of_Sentiments.PNG)
+![](snapshots/public_utilities.PNG)
+![](snapshots/range_of_Sentiments.PNG)
+![](snapshots/score.PNG)
+![](snapshots/snapshots.PNG)
+![](snapshots/sentiment_trend.PNG)
+![](snapshots/which_sector.PNG)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Contributors

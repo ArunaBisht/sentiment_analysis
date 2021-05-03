@@ -138,7 +138,7 @@ Due to the imbalanced dataset, we found more siginificant % percentage of neutra
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-## Product interface - 
+## Product Interface 
 
 This is the snapshot of the professional interactive dashboard built for the users to know the sentiments for the particular stock before investing.
 This shows the list of top trend in the market as per the recent data.

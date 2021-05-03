@@ -62,7 +62,7 @@ Following snapshot shows the final dataframe after pulling data from both data s
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-The correlation metrics of ML results were interesting. Following were the findings (1) The result accuracy increased significantly with the incerease in the score of comments. Infact the weigtage of positive comments increased with more scores. (2) If there was a sudden percentage change in the stock 'close' price then weigtage of negative comments was more (3) The ML results from two different libraries have a strong  postive correlation.
+The correlation metrics of ML results were interesting. Following were the findings (1) The result accuracy increased significantly with the increase in the score of comments. In-fact, the weigtage of positive comments increased with more scores of public comments. (2) If there was a sudden percentage change in the stock 'close' price then weigtage of negative comments was more (3) The ML results from two different libraries have a strong  positive correlation.
 
 ![](snapshots/correlation.PNG)
 
@@ -74,7 +74,7 @@ Following is the snapshot of the graph plotted between the results of two ML mod
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-Following graph shows the variation in the polarity.
+Following graph shows the variation in the polarity across stocks.
 
 ![](snapshots/snapshots.PNG)
 
@@ -82,54 +82,57 @@ Following graph shows the variation in the polarity.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-This is the heat map which tell better the score higher the postive sentiments % we got.
+This is the heat map which tell better the score higher the positive sentiments % we got.
 
 ![](snapshots/score.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 This is the trend of positive, negative and neutral sentiments trend across stocks.
+
 ![](snapshots/sentiment_trend.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-Due to the imbalanced dataset, we found more siginificant % percentage of neutral sentiments. The capital good sector % was 23%.
+Due to the imbalanced dataset, we found more siginificant % percentage of neutral sentiments aross different industry sectors. Following snapshots would show the percentage of sentiments, we found across sectors. 
+
+1.Example - the capital good sector % was 23%.
 
 ![](snapshots/capital_goods.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-The consumer service sector postive sentiment % is 23.2%
+2.The consumer service sector postive sentiment % is 23.2%
 
 ![](snapshots/customer_services.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-The energy sector postive sentiment % is 14.1%
+3.The energy sector postive sentiment % is 14.1%
 
 ![](snapshots/energy.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-The finance sector postive sentiment % is 22.6%
+4.The finance sector postive sentiment % is 22.6%
 
 ![](snapshots/finance.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-The finance sector postive sentiment % is 10.1%
+5.The finance sector postive sentiment % is 10.1%
 
 ![](snapshots/health_care.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-The finance sector postive sentiment % is 10.1%
+6.The finance sector postive sentiment % is 10.1%
 
 ![](snapshots/public_utilities.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-The finance sector postive sentiment % is 10.1%
+7.The finance sector postive sentiment % is 10.1%
 
 ![](snapshots/public_utilities.PNG)
 

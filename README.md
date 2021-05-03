@@ -57,27 +57,104 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 
 
 
-![](snapshots/capital_goods.PNG)
+
 ![](snapshots/correlation.PNG)
+The correlation metrics of ML results were interesting. Following were the findings (1) The result accuracy increased significantly with the incerease in the score of comments. Infact the weigtage of positive comments increased with more scores. (2) If there was a sudden percentage change in the stock 'close' price then weigtage of negative comments was more (3) The ML results from two different libraries have a strong  postive correlation.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 ![](snapshots/cross_results.PNG)
-![](snapshots/customer_services.PNG)
-![](snapshots/energy.PNG)
-![](snapshots/finance.PNG)
-![](snapshots/for_which_stock.PNG)
-![](snapshots/health_care.PNG)
-![](snapshots/intro.PNG)
-![](snapshots/polarity_variation.PNG)
-![](snapshots/public_sentiments.PNG)
-![](snapshots/public_utilities.PNG)
-![](snapshots/range_of_Sentiments.PNG)
-![](snapshots/public_utilities.PNG)
-![](snapshots/range_of_Sentiments.PNG)
-![](snapshots/score.PNG)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 ![](snapshots/snapshots.PNG)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 ![](snapshots/sentiment_trend.PNG)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![](snapshots/capital_goods.PNG)
+
+Due to the imbalanced dataset, we found more siginificant % percentage of neutral sentiments. The capital good sector % was 23%.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![](snapshots/customer_services.PNG)
+
+The consumer service sector postive sentiment % is 23.2%
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![](snapshots/energy.PNG)
+
+The energy sector postive sentiment % is 14.1%
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![](snapshots/finance.PNG)
+
+The finance sector postive sentiment % is 22.6%
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![](snapshots/health_care.PNG)
+
+The finance sector postive sentiment % is 10.1%
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![](snapshots/public_utilities.PNG)
+
+The finance sector postive sentiment % is 10.1%
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![](snapshots/public_utilities.PNG)
+
+The finance sector postive sentiment % is 10.1%
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+This is the snapshot of the interactive dashboard built for the users to konw the sentiments for the particular stock before investing.
+This shows the list of top trend in the market as per the recent data.
+
+![](snapshots/public_sentiments.PNG)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+This is the snapshot of the interactive dashboard built for the users to kn0w the sentiments for the particular stock before investing. 
+![](snapshots/for_which_stock.PNG)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![](snapshots/intro.PNG)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![](snapshots/polarity_variation.PNG)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+![](snapshots/range_of_Sentiments.PNG)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![](snapshots/range_of_Sentiments.PNG)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![](snapshots/score.PNG)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 ![](snapshots/which_sector.PNG)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-.
+
 ## Contributors
 
 Brought to you by 

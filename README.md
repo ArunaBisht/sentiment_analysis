@@ -138,14 +138,16 @@ Due to the imbalanced dataset, we found more siginificant % percentage of neutra
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-This is the snapshot of the interactive dashboard built for the users to konw the sentiments for the particular stock before investing.
+## Product interface - 
+
+This is the snapshot of the professional interactive dashboard built for the users to know the sentiments for the particular stock before investing.
 This shows the list of top trend in the market as per the recent data.
 
 ![](snapshots/public_sentiments.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-This is the snapshot of the interactive dashboard built for the users to kn0w the sentiments for the particular stock before investing. 
+This is the snapshot of another user interface to kn0w the sentiments for the particular stock before investing. 
 ![](snapshots/for_which_stock.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------

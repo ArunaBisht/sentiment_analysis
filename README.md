@@ -77,13 +77,11 @@ Following graph shows the variation in the polarity.
 
 ![](snapshots/snapshots.PNG)
 
---------------------------------------------------------------------------------------------------------------------------------------------
-
-This is the heat map which tell better the score higher the postive sentiments % we got.
-
 ![](snapshots/polarity_variation.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+This is the heat map which tell better the score higher the postive sentiments % we got.
 
 ![](snapshots/score.PNG)
 
